@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cien anios de soledad",
+    "autor": "Gabriel Garcia Marquez",
+    "anio": 1967,
+    "genero": "Realismo magico",
+    "disponible": true,
+    "etiquetas": ["clasico", "literatura latinoamericana", "familia Buendia", "bestseller"]
+  },
+  {
+    "id": 19,
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "anio": 2008,
+    "genero": "Programacion y software",
+    "disponible": true,
+    "etiquetas": ["buenas practicas", "refactorizacion", "desarrollo", "artesania de software"]
+  },
+  {
+    "id": 3,
+    "titulo": "El laberinto de los espiritus",
+    "autor": "Carlos Ruiz Zafon",
+    "anio": 2016,
+    "genero": "Misterio",
+    "disponible": true,
+    "etiquetas": ["Barcelona", "gotico", "intriga", "saga Cementerio de los Libros Olvidados"]
+  },
+  {
+    "id": 4,
+    "titulo": "Designing Data-Intensive Applications",
+    "autor": "Martin Kleppmann",
+    "anio": 2017,
+    "genero": "Programacion y software",
+    "disponible": true,
+    "etiquetas": ["bases de datos", "sistemas distribuidos", "big data", "arquitectura"]
+  },
+  {
+    "id": 5,
+    "titulo": "Dune",
+    "autor": "Frank Herbert",
+    "anio": 1965,
+    "genero": "Ciencia ficcion",
+    "disponible": false,
+    "etiquetas": ["opera espacial", "ecologia", "imperio", "adaptacion al cine"]
+  },
+  {
+    "id": 6,
+    "titulo": "El psicoanalista",
+    "autor": "John Katzenbach",
+    "anio": 2002,
+    "genero": "Thiller psicologico",
+    "disponible": true,
+    "etiquetas": ["venganza", "misterio", "juegos mentales", "bestseller"]
+  },
+  {
+    "id": 7,
+    "titulo": "Habitos Atomicos",
+    "autor": "James Clear",
+    "anio": 2018,
+    "genero": "Desarrollo personal",
+    "disponible": true,
+    "etiquetas": ["productividad", "autoayuda", "psicologia", "crecimiento"]
+  },
+  {
+    "id": 8,
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafon",
+    "anio": 2001,
+    "genero": "Misterio",
+    "disponible": true,
+    "etiquetas": ["drama", "romance", "libros sobre libros", "bestseller"]
+  }
+]
